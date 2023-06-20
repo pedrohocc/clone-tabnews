@@ -1,2 +1,2 @@
 # clone-tabnews
-Implementação do tabnews do curso do Felipe Deschamps
+Implementação do tabnews do curso do Filipe Deschamps
